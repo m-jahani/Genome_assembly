@@ -10,7 +10,7 @@ bash assembly_pipeline.sh  *HIFI.fastq.gz *HiC.R1.fastq.gz HiC.R2.fastq.gz PREFI
 ```
 
 
-## Modules
+## Modules:
 
 ### hifiasm.sh 
 Genome assembly and contiguity statistics
